@@ -1,5 +1,10 @@
-## Hi there 👋
+## About Me!
+Throughout my education, I was always taught about the usage of technology and its purpose: to be a beacon of progress that ultimately betters our society. In my early computer science classes, I got to take a look at basic algorithms and functions. They were seemingly unimportant, but turned out to be building blocks for understanding more complex concepts about how our interaction with technology can produce specific, tailored results. I learned how to program in multiple languages such as C, C++, Java, and more, as well as understood how to utilize different data structures based on the needs of the user. By combining these skills with a higher level of analytical thinking, I learned to interpret data to see real world impact. By analyzing these interactions, we can learn about aspects of our lives that can be enhanced with an algorithm. 
 
+As my understanding deepened along my education, I grew to realize that technology does not operate by itself. In fact, it exists within the everyday, a large part of which is determined by the justice system surrounding it. With a Pre-Law focus alongside my computer science education, I started to see how the same algorithms designed to improve efficiency can also be used to shape access. It drew me toward the intersection of technology and justice. I want to work in spaces where my technical knowledge can help contribute to the efficient, yet ethical framework of the mission. Ultimately, I hope to contribute to a future where innovation continues to be that beacon of progress, advancing society equitably and sustainably.
+
+Technical Skills: C/C++, Java, Python Fundamentals
+Coursework: Data Structures & Algorithms, Programming Practicum, Discrete Mathematics
 <!--
 **Sri719/Sri719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
